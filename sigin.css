@@ -1,0 +1,10 @@
+
+.name{
+    color: blue;
+}
+.sigin_form{
+    margin: auto;
+    width: 24%;
+    border: 3px solid rgb(73, 74, 73);
+    padding: 10px;
+}
